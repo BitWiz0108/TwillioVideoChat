@@ -15,7 +15,7 @@ This application demonstrates a multi-party video application built with [Twilio
 ![App Preview](https://user-images.githubusercontent.com/12685223/94631109-cfca1c80-0284-11eb-8b72-c97276cf34e4.png)
 
 ## Prerequisites
-
+ 
 You must have the following installed:
 
 - [Node.js v14+](https://nodejs.org/en/download/)
